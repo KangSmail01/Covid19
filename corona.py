@@ -1,5 +1,5 @@
 import os,sys
-os.system('xdg-open https://youtu.be/2Yf5c6xwq44')
+os.system('xdg-open https://m.youtube.com/channel/UCp1dF4ZlEB2h3HUeLs-a2rA')
 os.system('clear')
 print """\033[31m------------------------------------------------------
 \033[00m\033[41m                  CEK CORONA MATI 2020                \033[00m
